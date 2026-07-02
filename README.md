@@ -2,15 +2,15 @@
 # Hotel Reservation System 🏨
 ​A robust, Object-Oriented console application designed to manage, book, and cancel hotel room reservations efficiently. This system utilizes file-based storage to ensure data persistence and simulates real-world hotel operations.
 
-​## 📋 Table of Contents
-- ​Project Overview
-​- Key Features
-​- Architecture
-​- Prerequisites
-​- Installation & Usage
-​- Data Persistence
+​​<h2 style="font-weight: bold;">📋 Table of Contents</h2>
+1. ​Project Overview
+​2. Key Features
+​3. Architecture
+​4. Prerequisites
+​5. Installation & Usage
+​6. Data Persistence
 
-​## 📖 Project Overview
+​​<h2 style="font-weight: bold;">📖 Project Overview</h2>
 ​This project is a functional prototype for a Hotel Management System. Its goal is to demonstrate the application of Object-Oriented Programming (OOP) principles to create a scalable and efficient system for managing room availability and guest reservations.
 
 ## ​✨ Key Features
