@@ -3,16 +3,14 @@
 ​A robust, Object-Oriented console application designed to manage, book, and cancel hotel room reservations efficiently. This system utilizes file-based storage to ensure data persistence and simulates real-world hotel operations.
 
 ​## 📋 Table of Contents
-
---​Project Overview
-​--Key Features
-​--Architecture
-​--Prerequisites
-​--Installation & Usage
-​--Data Persistence
+- ​Project Overview
+​- Key Features
+​- Architecture
+​- Prerequisites
+​- Installation & Usage
+​- Data Persistence
 
 ​## 📖 Project Overview
-
 ​This project is a functional prototype for a Hotel Management System. Its goal is to demonstrate the application of Object-Oriented Programming (OOP) principles to create a scalable and efficient system for managing room availability and guest reservations.
 
 ## ​✨ Key Features
@@ -22,16 +20,16 @@
 - **​Payment Simulation**: Includes a simulated payment processing workflow upon booking.
 ​Data Persistence: Saves all booking records to a text file (bookings.txt) to prevent data loss.
 
-​## **Architecture** 🏗️
+​<h2 style="font-weight: bold;">🏗️ Architecture</h2> 
 - **​OOP Design**: Utilizes Room and Booking classes to model system entities.
 - **​File I/O:** Implements FileWriter and PrintWriter for persistent data storage on the local disk.
 - **​Collections**: Leverages Java's ArrayList to manage room inventory and active bookings in memory.
 
-​## 🛠️ **Prerequisites**
+​​<h2 style="font-weight: bold;">🛠️ Prerequisites</h2>
 - **​JDK**: Java Development Kit (JDK 8 or higher).
 - **​IDE**: IntelliJ IDEA, Eclipse, VS Code, or any standard text editor.
 
-​## 🚀 **Installation & Usage**
+​​<h2 style="font-weight: bold;">🚀 Installation & Usage</h2>
 1. Copy the source code into a file named
   HotelReservation.java.
 2. Open your terminal or command prompt int the project directory.
